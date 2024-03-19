@@ -6,9 +6,9 @@
 
 ### Tools/Technologies Used
 
- - VS Code
  - C++
  - OOPS
+ - VS Code
 
 ### Screenshots
 

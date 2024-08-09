@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Advanced Tic-Tac-Toe with Object-Oriented Design and Synchronization
  - This Tic Tac Toe console application is a sophisticated implementation of the classic game, designed with an emphasis on concurrent programming and object-oriented principles in C++.
  - Utilizing mutex locks, the application guarantees synchronized execution, allowing for alternating player moves while effectively preventing race conditions.
  - The game is equipped with comprehensive error handling to address invalid moves, enhancing the user experience by ensuring smooth gameplay.
